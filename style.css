@@ -1,0 +1,18 @@
+body {
+    scroll-behavior: smooth;
+}
+#hero {
+    padding-top: 100px; /* Space for fixed navbar */
+}
+.progress {
+    height: 25px;
+}
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
+.list-group-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
